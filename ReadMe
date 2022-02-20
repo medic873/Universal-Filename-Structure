@@ -1,19 +1,56 @@
-
-Characters Not Allowed On Windows
-#
-&
-%
-{
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
 }
-\
-<
->
-*
-?
-/
-$
-!
-'
-"
-:
-@
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+
+<table>
+  <tr>
+    <th><center>Characters Not Allowed On Windows</center></th>
+
+  </tr>
+    <tr><td>#</td></tr>
+    <tr><td>&</tr></td>
+    <tr><td>%</tr></td>
+    <tr><td>{</tr></td>
+    <tr><td>}</tr></td>
+    <tr><td>\</tr></td>
+    <tr><td><</tr></td>
+    <tr><td>></tr></td>
+    <tr><td>*</tr></td>
+    <tr><td>?</tr></td>
+    <tr><td>/</tr></td>
+    <tr><td>$</tr></td>
+    <tr><td>!</tr></td>
+    <tr><td>'</tr></td>
+    <tr><td>"</tr></td>
+    <tr><td>:</tr></td>
+    <tr><td>@</tr></td>
+  
+</table>
+
+</body>
+</html>
+
+
+
+
+
